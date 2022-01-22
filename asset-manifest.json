@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SimonYuvarlak/Ilgintopiapp/static/css/main.073c9b0a.css",
+    "main.js": "/SimonYuvarlak/Ilgintopiapp/static/js/main.bbf27fe6.js",
+    "static/js/787.454c392f.chunk.js": "/SimonYuvarlak/Ilgintopiapp/static/js/787.454c392f.chunk.js",
+    "static/media/logo.svg": "/SimonYuvarlak/Ilgintopiapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SimonYuvarlak/Ilgintopiapp/index.html",
+    "main.073c9b0a.css.map": "/SimonYuvarlak/Ilgintopiapp/static/css/main.073c9b0a.css.map",
+    "main.bbf27fe6.js.map": "/SimonYuvarlak/Ilgintopiapp/static/js/main.bbf27fe6.js.map",
+    "787.454c392f.chunk.js.map": "/SimonYuvarlak/Ilgintopiapp/static/js/787.454c392f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bbf27fe6.js"
+  ]
+}
